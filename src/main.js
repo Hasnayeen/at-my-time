@@ -3,7 +3,7 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import { Datetime } from 'vue-datetime'
-import 'vue-datetime/dist/vue-datetime.css'
+import '~/assets/vue-datetime.min.css'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component

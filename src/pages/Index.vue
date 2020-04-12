@@ -1,10 +1,10 @@
 <template>
   <Layout>
-    <div class="w-full">
+    <div class="max-w-6xl mx-auto">
       <div>
         Current local time
       </div>
-      <div class="text-5xl max-w-6xl w-full">
+      <div class="text-5xl">
         {{ currentTime }}
       </div>
       <div class="w-full mb-6 md:mb-0">
