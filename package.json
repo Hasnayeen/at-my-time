@@ -1,0 +1,19 @@
+{
+  "name": "at-my-time",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "luxon": "^1.23.0",
+    "vue-datetime": "^1.0.0-beta.11",
+    "weekstart": "^1.0.1"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^2.2.43"
+  }
+}
