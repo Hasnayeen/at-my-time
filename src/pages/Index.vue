@@ -80,3 +80,7 @@ export default {
   }
 }
 </script>
+
+<style>
+@import './../assets/vue-datetime.min.css';
+</style>
